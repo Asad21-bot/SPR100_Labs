@@ -71,7 +71,7 @@ Disk usage showed small spikes now and then but stayed low overall.]
 - **Peak Memory Usage:** [around (1464 MB used → so ~peak usage was memory dropping closer to 1285 MB available)]
 - **Resource Usage During Activities:** [ When i did small tasks, the disk showed spikes. CPU and memory didn’t change much.]
 #### Performance Monitor Data Collector Graph
-![Performance Chart] (images/performance_chart.gif)
+![Performance Chart](images/performance_chart.gif)
 - **How You Extracted:** [drag and drop]
 ---
 ## Analysis and Conclusions
